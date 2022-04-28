@@ -9,7 +9,7 @@ The confirmation then is provided by the admin where in the admin has to login f
 
 
 Group Members:
-[Darshan Chandak][https://github.com/DarshanChandak] 
-[Ansh Gupta][https://github.com/anshgupta25]
-[Ishaan Srivastava][]
-[Uday Singh Thakur][https://github.com/udaysingh50]
+[Darshan Chandak](https://github.com/DarshanChandak)
+[Ansh Gupta](https://github.com/anshgupta25)
+[Ishaan Srivastava]()
+[Uday Singh Thakur](https://github.com/udaysingh50)
