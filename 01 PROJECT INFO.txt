@@ -1,9 +1,9 @@
 Group 
 
-Ansh
-Darshan
-ishaan
-uday
+Ansh Gupta
+Darshan Chandak
+Ishaan Srivastava
+Uday Singh Thakur
 
 
 **Instructions**
